@@ -15,7 +15,7 @@ using FireDucks' Pandas module, which is designed to be faster than regular pand
 so it is recommended that be used for local evaluation/deployment, but the distributed notebook was left in the repository for future use if 
 those resources were ever to become available. 
 
-Local Deployment Notebook: DATA 606 Capstone Fireducks (2).ipynb
+Local Deployment Notebook: DATA 606 Capstone Fireducks (3).ipynb
 Distributed Deployment Notebook: Data 606 Capstone.ipynb
 
 The project was determined to be very successful as a preliminary prototype, and the results_data.csv file contains results for 3896 test cases. 
